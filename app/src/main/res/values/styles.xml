@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Kvas" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#E8794F</item>
+        <item name="android:navigationBarColor">#131312</item>
+        <item name="android:statusBarColor">#131312</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
