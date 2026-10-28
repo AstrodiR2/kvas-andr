@@ -113,7 +113,7 @@ class ProviderApi(
                         }
                     })
                 }
-                messages.put(message)
+                put(message)
             }
         }
         val payload = JSONObject()
